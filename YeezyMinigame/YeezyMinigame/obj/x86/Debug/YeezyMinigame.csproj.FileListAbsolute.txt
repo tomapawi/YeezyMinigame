@@ -1,0 +1,8 @@
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\obj\x86\Debug\YeezyMinigame.Form1.resources
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\obj\x86\Debug\YeezyMinigame.csproj.GenerateResource.Cache
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\obj\x86\Debug\YeezyMinigame.csprojResolveAssemblyReference.cache
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\bin\Debug\YeezyMinigame.exe
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\bin\Debug\YeezyMinigame.pdb
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\obj\x86\Debug\YeezyMinigame.Properties.Resources.resources
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\obj\x86\Debug\YeezyMinigame.exe
+C:\Users\Oem\Documents\Visual Studio 2010\Projects\YeezyMinigame\YeezyMinigame\obj\x86\Debug\YeezyMinigame.pdb
